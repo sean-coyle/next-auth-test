@@ -1,6 +1,6 @@
 # next-auth POC
-This is a proof of concept for next auth. This should just be used as refernce but I'll link better resources
-I'll update this if I find anything useful or a better way to handle it.
+This is a proof of concept for next auth. This should just be used as reference and I'll link better resources. Next-auth has a lot of different ways to do things so I'm sure a better method exists so I'll try to update 
+this if I find anything useful.
 
 # Key Points
 - App needs to be wrapped in a session provider. see root [page.js](https://github.com/sean-coyle/next-auth-test/blob/f5131c588a21ab851bc10cdacabe9ae1d99e96b0/test-auth/src/app/page.js) and [providers.js](https://github.com/sean-coyle/next-auth-test/blob/f5131c588a21ab851bc10cdacabe9ae1d99e96b0/test-auth/src/app/Providers.js)
